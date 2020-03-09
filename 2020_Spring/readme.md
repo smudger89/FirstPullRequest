@@ -72,7 +72,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Mori, Fabio
 
-- [x] Overcash, Ryan (@ryovercash) :boom:
+- [x] Overcash, Ryan Scott (@ryovercash) :taco:
 
 - [ ] Price, Andrew
 
