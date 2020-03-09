@@ -72,7 +72,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Mori, Fabio
 
-- [ ] Overcash, Ryan
+- [x] Overcash, Ryan (@ryovercash) :boom:
 
 - [ ] Price, Andrew
 
@@ -84,13 +84,13 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Ryu, Sam
 
-- [ ] Sepielli, Joshua
+- [X] Sepielli, Joshua (@joshuasepielli) :dog2:
 
 - [ ] Sherpa, Nima
 
 - [ ] Shintre, Amit
 
-- [x] Smith, Sam (@smudger89)  
+- [x] Smith, Sam Henry (@smudger89) (favorite emoji is a :grin:)
 
 - [x] Sobral, Cynthia
 
